@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <>
       <Typography variant="h1">
-        PotatoBin
+        PotatoBin New Link?
       </Typography>
     </>
   )
